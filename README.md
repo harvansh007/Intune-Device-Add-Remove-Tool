@@ -1,3 +1,5 @@
+You have to login with your cloud account to use this tool.
+In first time laucnh it will install PowerShell Module for Microsoft Graph, You many need to run this tool with admin rights to install Module.
 You can perform multiple action with this tool.
 Tool will help you to add devices in Intune/Entra group.
 Tool will help you to remove devices in Intune/Entra group.
